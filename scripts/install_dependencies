@@ -1,4 +1,3 @@
 #!/bin/bash
 yum install -y httpd
-sudo mkdir -p /usr/local/nodejs
-sudo mkdir -p /usr/local/dhanush
+
